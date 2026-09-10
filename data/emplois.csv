@@ -1,0 +1,300 @@
+id,libellé,catégorie,rythme
+1,Médecin généraliste hospitalier,Médical,jour; astreintes
+2,Médecin anesthésiste-réanimateur,Médical,jour/nuit; astreintes
+3,Médecin réanimateur médical,Médical,jour/nuit; astreintes
+4,Chirurgien digestif,Médical,jour; astreintes; bloc
+5,Chirurgien orthopédiste,Médical,jour; astreintes; bloc
+6,Chirurgien viscéral,Médical,jour; astreintes; bloc
+7,Chirurgien vasculaire,Médical,jour; astreintes; bloc
+8,Neurochirurgien,Médical,jour; astreintes; bloc
+9,Chirurgien cardiaque,Médical,jour; astreintes; bloc
+10,Chirurgien ORL,Médical,jour; astreintes; bloc
+11,Chirurgien maxillo-facial,Médical,jour; astreintes; bloc
+12,Gynécologue-obstétricien,Médical,jour/nuit; astreintes; bloc
+13,Pédiatre,Médical,jour/nuit; astreintes
+14,Gériatre,Médical,jour; astreintes
+15,Cardiologue,Médical,jour; astreintes
+16,Pneumologue,Médical,jour; astreintes
+17,Néphrologue,Médical,jour; astreintes; dialyse
+18,Hépato-gastroentérologue,Médical,jour; astreintes
+19,Endocrinologue-diabétologue,Médical,jour; astreintes
+20,Neurologue,Médical,jour; astreintes
+21,Oncologue médical,Médical,jour; astreintes
+22,Hématologue,Médical,jour; astreintes
+23,Dermatologue,Médical,jour
+24,Rhumatologue,Médical,jour
+25,Ophtalmologiste,Médical,jour
+26,Médecin ORL,Médical,jour; astreintes
+27,Médecin de médecine interne,Médical,jour; astreintes
+28,Médecin de médecine physique et de réadaptation (MPR),Médical,jour; astreintes
+29,Médecin infectiologue,Médical,jour; astreintes
+30,Médecin urgentiste (SMUR/SAMU/SAU),Médical,jour/nuit; 12h; astreintes
+31,Médecin de soins palliatifs,Médical,jour; astreintes
+32,Médecin de la douleur,Médical,jour; astreintes
+33,Addictologue,Médical,jour; astreintes
+34,Psychiatre adulte,Médical,jour; astreintes; garde
+35,Pédopsychiatre,Médical,jour; astreintes
+36,Radiologue,Médical,jour; astreintes; imagerie
+37,Médecin nucléaire,Médical,jour; astreintes
+38,Médecin du travail (hospitalier),Médical,jour
+39,"Dentiste hospitalier (ODF, chirurgie orale)",Médical,jour; astreintes
+40,Médecin DIM (Information Médicale),Médical,cadre forfait jours
+41,Pharmacien hospitalier,Pharmacie,cadre forfait jours; astreintes
+42,Biologiste médical (laboratoire),Laboratoire,cadre forfait jours; astreintes
+43,Infirmier en soins généraux (IDE),Soins infirmiers,jour/nuit; 12h
+44,Infirmier anesthésiste (IADE),Bloc opératoire,jour; astreintes; 12h
+45,Infirmier de bloc opératoire (IBODE),Bloc opératoire,jour; astreintes; bloc
+46,Infirmier puériculteur,Pédiatrie/néonat,jour/nuit
+47,Infirmier en pratique avancée (IPA) – Oncologie,Soins infirmiers,jour; cadre forfait jours
+48,Infirmier en pratique avancée (IPA) – Gériatrie,Soins infirmiers,jour; cadre forfait jours
+49,Aide-soignant (AS),Soins infirmiers,jour/nuit; 12h
+50,Auxiliaire de puériculture (AP),Pédiatrie/néonat,jour/nuit
+51,Sage-femme / Maïeuticien,Maïeutique,jour/nuit; 12h
+52,Brancardier,Bloc/transport patient,jour; horaires variables
+53,Cadre de santé (soins),Encadrement,cadre forfait jours
+54,Cadre supérieur de santé,Encadrement,cadre forfait jours
+55,Directeur des soins,Encadrement,cadre forfait jours
+56,Masseur-kinésithérapeute,Rééducation,jour
+57,Ergothérapeute,Rééducation,jour
+58,Psychomotricien,Rééducation,jour
+59,Orthophoniste,Rééducation,jour
+60,Orthoptiste,Rééducation/Ophtalmologie,jour
+61,Pédicure-podologue,Rééducation,jour
+62,Diététicien,Médico-technique,jour
+63,Audioprothésiste (hospitalier),Médico-technique,jour
+64,Prothésiste-orthésiste (plateau technique),Médico-technique,jour
+65,Manipulateur en électroradiologie médicale (MER),Imagerie,jour/nuit; astreintes
+66,Technicien de radiothérapie,Imagerie/radiothérapie,jour
+67,Physicien médical (radiophysicien),Imagerie/radiothérapie,cadre forfait jours; astreintes
+68,Dosimétriste,Imagerie/radiothérapie,jour
+69,Technicien de laboratoire médical (biologie),Laboratoire,jour; astreintes
+70,Technicien d'anatomie et cytologie pathologiques (ACP),Laboratoire,jour
+71,Assistant de laboratoire,Laboratoire,jour
+72,Coursier laboratoire,Laboratoire,jour; horaires variables
+73,Secrétaire de laboratoire,Laboratoire,jour
+74,Préparateur en pharmacie hospitalière (PPH),Pharmacie,jour
+75,Magasinier pharmacie,Pharmacie,jour
+76,Ambulancier (intra/extra-hospitalier),Urgences/logistique,jour/nuit; 12h
+77,ARM – Assistant de régulation médicale (SAMU),Urgences,jour/nuit
+78,Médecin hygiéniste,Hygiène/Qualité,cadre forfait jours
+79,Infirmier hygiéniste (EOH),Hygiène/Qualité,jour; astreintes ponctuelles
+80,Responsable qualité & gestion des risques,Qualité,cadre forfait jours
+81,Ingénieur qualité,Qualité,cadre forfait jours
+82,Gestionnaire des risques,Qualité,cadre forfait jours
+83,Référent hémovigilance,Vigilances,jour; astreintes
+84,Référent matériovigilance,Vigilances,jour
+85,Référent pharmacovigilance,Vigilances,jour
+86,Directeur d'hôpital,Direction,cadre forfait jours
+87,Directeur adjoint,Direction,cadre forfait jours
+88,Directeur financier (DAF),Direction/Finance,cadre forfait jours
+89,Directeur des ressources humaines (DRH),Direction/RH,cadre forfait jours
+90,Responsable paie,RH,cadre forfait jours
+91,Gestionnaire RH,RH,jour
+92,Juriste,Juridique,cadre forfait jours
+93,Acheteur hospitalier,Achats,cadre forfait jours
+94,Gestionnaire marchés publics,Achats/Juridique,cadre forfait jours
+95,Contrôleur de gestion,Finance,cadre forfait jours
+96,Comptable,Finance,jour
+97,Trésorier/recouvrement,Finance,jour
+98,Secrétaire médical(e),Administratif/médical,jour
+99,Secrétaire administratif(ve),Administratif,jour
+100,Agent d'admissions/accueil,Administratif,jour; horaires variables; week-end
+101,Archiviste médical,Administratif,jour
+102,Responsable accueil & admissions,Administratif,cadre forfait jours
+103,Assistant de direction,Administratif,jour
+104,Standardiste,Administratif,jour; horaires variables
+105,Interprète médical,Administratif,horaires variables
+106,Médecin DIM (chef),Information médicale,cadre forfait jours
+107,Technicien de l'information médicale (TIM),Information médicale,jour
+108,Documentaliste médical,Information médicale,jour
+109,DSI – Directeur des systèmes d'information,Informatique/SIH,cadre forfait jours
+110,Chef de projet SIH,Informatique/SIH,cadre forfait jours
+111,Administrateur systèmes & réseaux,Informatique/SIH,jour; astreintes
+112,Technicien support informatique,Informatique/SIH,jour; horaires variables
+113,Ingénieur interopérabilité (HL7/FHIR),Informatique/SIH,cadre forfait jours
+114,RSSI – Responsable sécurité des SI,Informatique/SIH,cadre forfait jours; astreintes
+115,Développeur applicatif (SIH),Informatique/SIH,cadre forfait jours
+116,Analyste décisionnel / BI,Informatique/SIH,cadre forfait jours
+117,Data manager (recherche/clinique),Informatique/Recherche,cadre forfait jours
+118,"Data analyst (activité, qualité)",Informatique/SIH,cadre forfait jours
+119,Bioinformaticien,Laboratoire/Recherche,cadre forfait jours
+120,Méthodologiste/biostatisticien,Recherche,cadre forfait jours
+121,Attaché de recherche clinique (ARC),Recherche,jour; déplacements
+122,Chef de projet recherche clinique,Recherche,cadre forfait jours
+123,Coordinateur d'études cliniques,Recherche,cadre forfait jours
+124,Technicien d'études cliniques,Recherche,jour
+125,Responsable promotion (URC),Recherche,cadre forfait jours
+126,Ingénieur de recherche,Recherche,cadre forfait jours
+127,Technicien animalier (animalerie),Recherche,jour; week-end
+128,Responsable comité d'éthique,Recherche,cadre forfait jours
+129,Psychologue clinicien,Psycho-social,jour
+130,Neuropsychologue,Psycho-social,jour
+131,Assistant de service social (ASS),Psycho-social,jour
+132,Éducateur spécialisé,Psycho-social,jour
+133,Éducateur de jeunes enfants (EJE),Psycho-social,jour
+134,Animateur socio-culturel,Psycho-social,jour; week-end
+135,Aumônier (accompagnement spirituel),Psycho-social,horaires variables
+136,Agent des services hospitaliers (ASH) – bionettoyage,Hygiène/Hôtellerie,jour; nuit; week-end
+137,Gouvernante/Responsable hôtelière,Hôtellerie,cadre forfait jours
+138,Agent hôtelier,Hôtellerie,jour; horaires variables
+139,Cuisinier,Restauration,jour; horaires variables
+140,Chef de cuisine,Restauration,cadre forfait jours
+141,Plongeur batterie,Restauration,jour; horaires variables
+142,Magasinier restauration,Restauration,jour
+143,Logisticien (flux internes),Logistique,jour; horaires variables
+144,Magasinier (magasin général),Logistique,jour
+145,Préparateur de commandes (logistique),Logistique,jour
+146,Chauffeur-livreur (logistique interne),Logistique,jour; horaires variables
+147,Gestionnaire des stocks,Logistique,jour
+148,Responsable logistique,Logistique,cadre forfait jours
+149,Agent de stérilisation,Stérilisation,jour; horaires variables
+150,Technicien de stérilisation,Stérilisation,jour
+151,Responsable de stérilisation,Stérilisation,cadre forfait jours
+152,Ingénieur biomédical,Biomédical,cadre forfait jours; astreintes
+153,Technicien biomédical,Biomédical,jour; astreintes
+154,Gestionnaire de parc biomédical,Biomédical,cadre forfait jours
+155,Responsable des services techniques,Techniques/bâtiment,cadre forfait jours; astreintes
+156,Agent de maintenance multitechnique,Techniques/bâtiment,jour; astreintes
+157,Électricien bâtiment,Techniques/bâtiment,jour; astreintes
+158,Plombier-chauffagiste,Techniques/bâtiment,jour; astreintes
+159,Frigoriste/CVC,Techniques/bâtiment,jour; astreintes
+160,Menuisier,Techniques/bâtiment,jour
+161,Peintre en bâtiment,Techniques/bâtiment,jour
+162,Chef d'équipe maintenance,Techniques/bâtiment,cadre forfait jours
+163,Chef de service sécurité incendie (SSIAP3),Sécurité,cadre forfait jours; astreintes
+164,Agent de sécurité incendie (SSIAP1/2),Sécurité,jour/nuit; 12h
+165,Agent de sûreté/prévention,Sécurité,jour/nuit
+166,Agent de gestion des déchets (DASRI),Logistique/Hygiène,jour; horaires variables
+167,Agent de blanchisserie,Blanchisserie,jour; horaires variables
+168,Responsable blanchisserie,Blanchisserie,cadre forfait jours
+169,Coursier interne (documents/échantillons),Logistique,jour; horaires variables
+170,Responsable chambre mortuaire,Services mortuaires,cadre forfait jours; astreintes
+171,Agent de chambre mortuaire,Services mortuaires,jour; astreintes
+172,Responsable relations avec les usagers,Qualité/Relations patients,cadre forfait jours
+173,Médiateur santé,Relations patients,jour; horaires variables
+174,Chargé de communication,Communication,cadre forfait jours
+175,Community manager (institutionnel),Communication,cadre forfait jours
+176,Responsable formation continue,Formation,cadre forfait jours
+177,Formateur IFSI/IFAS/IFMEM,Formation,jour
+178,Coordonnateur pédagogique (IFSI/écoles),Formation,cadre forfait jours
+179,Responsable économat,Achats/Logistique,cadre forfait jours
+180,Magasinier économat,Achats/Logistique,jour
+181,Coordinateur transports patients,Logistique,cadre forfait jours
+182,Chargé de prévention (EHPAD/USLD/CSAPA),Santé publique,cadre forfait jours
+183,"Éducateur en santé (addictologie, nutrition)",Santé publique,jour
+184,Responsable affaires juridiques,Juridique,cadre forfait jours
+185,Référent protection des données (DPO),Juridique/SIH,cadre forfait jours
+186,Président de CME (médecin),Gouvernance,cadre forfait jours
+187,Vice-président CME,Gouvernance,cadre forfait jours
+188,Chirurgien urologue,Médical,jour; astreintes; bloc
+189,Chirurgien thoracique,Médical,jour; astreintes; bloc
+190,Chirurgien plastique et reconstructeur,Médical,jour; astreintes; bloc
+191,Chirurgien pédiatrique,Médical,jour; astreintes; bloc
+192,Chirurgien bariatrique,Médical,jour; astreintes; bloc
+193,Médecin allergologue,Médical,jour
+194,Médecin gériatre en SSR,Médical,jour; astreintes
+195,Médecin hospitalier en psychiatrie de liaison,Médical,jour; astreintes
+196,Médecin douleur chronique,Médical,jour
+197,Médecin de médecine du sport,Médical,jour
+198,Chirurgien ophtalmologiste,Médical,jour; astreintes; bloc
+199,Audiologiste (médical),Médical,jour
+200,Aide opératoire (médical/paramédical),Bloc opératoire,jour; bloc
+201,Régulateur/planificateur de bloc,Bloc opératoire,cadre forfait jours
+202,Agent de bionettoyage bloc,Bloc opératoire,jour; horaires variables
+203,Secrétaire d'imagerie,Imagerie,jour
+204,Responsable plateau d'imagerie,Imagerie,cadre forfait jours
+205,Infirmier dialyse,Soins infirmiers,jour; 12h
+206,Technicien dialyse,Médico-technique,jour
+207,Médecin néphrologue en dialyse,Médical,jour; astreintes
+208,"Technicien d'explorations fonctionnelles (EEG, EFR)",Médico-technique,jour
+209,Médecin de médecine du sommeil,Médical,jour; astreintes
+210,Infirmier douleur/algologie,Soins infirmiers,jour
+211,Coordinateur d'HAD (hospitalisation à domicile),Soins à domicile,cadre forfait jours
+212,Infirmier HAD,Soins à domicile,jour
+213,Infirmier santé au travail,Santé au travail,jour
+214,Pharmacien clinicien (UF clin.),Pharmacie,cadre forfait jours
+215,Technicien essais cliniques pharmacie,Pharmacie/Recherche,jour
+216,Chargé des affaires médicales (planning praticiens),Administratif,cadre forfait jours
+217,Planificateur des gardes (médical),Administratif,jour
+218,Gestionnaire lits/bed manager,Organisation soins,jour; horaires variables
+219,MER bloc (arceau),Imagerie/Bloc,jour; astreintes
+220,Infirmier référent plaies et cicatrisation,Soins infirmiers,jour
+221,Infirmier stomathérapeute,Soins infirmiers,jour
+222,Infirmier vaccination,Santé publique,jour
+223,Technicien prélèvements (site fixe/mobile),Laboratoire,jour; horaires variables
+224,Infirmier psychiatrie,Soins infirmiers,jour/nuit; 12h
+225,Éducateur spécialisé psychiatrie,Psycho-social,jour
+226,Assistant social psychiatrie,Psycho-social,jour
+227,Auxiliaire de puériculture maternité/néonat,Pédiatrie/néonat,jour/nuit
+228,Consultant en lactation (IBCLC),Périnatalité,jour
+229,Chargé de mission développement durable,Qualité/RSE,cadre forfait jours
+230,Responsable RSE,Qualité/RSE,cadre forfait jours
+231,Ingénieur application imagerie (PACS/RIS),Informatique/SIH,cadre forfait jours
+232,Administrateur PACS/RIS,Informatique/SIH,cadre forfait jours; astreintes
+233,Maître de stage universitaire (MSU),Enseignement,cadre forfait jours
+234,Opticien-lunetier (plateau),Médico-technique,jour
+235,Assistant dentaire,Dentaire,jour
+236,Secrétaire dentaire,Dentaire,jour
+237,Hygiéniste dentaire,Dentaire,jour
+238,Infirmier d'hémovigilance / transfusion,Soins infirmiers,jour; astreintes
+239,Médecin responsable de la transfusion,Médical,cadre forfait jours; astreintes
+240,"Assistant qualité (audits, indicateurs)",Qualité,jour
+241,Technicien biomédical itinérant (GHT),Biomédical,jour; déplacements
+242,Coordinateur GHT – coopérations,Direction,cadre forfait jours
+243,Infirmier d'endoscopie,Bloc/plateau technique,jour; astreintes
+244,Technicien d'endoscopie,Bloc/plateau technique,jour
+245,Agent de retraitement endoscopes,Stérilisation,jour
+246,Psychologue du centre douleur,Psycho-social,jour
+247,Infirmier addictologie,Soins infirmiers,jour
+248,Gestionnaire de risques associés aux soins (GRAS),Qualité,cadre forfait jours
+249,Conseiller en radioprotection (CRP),Imagerie,cadre forfait jours
+250,Chef de projet télémédecine,Informatique/SIH,cadre forfait jours
+251,Référent DPI (dossier patient informatisé),Informatique/SIH,cadre forfait jours
+252,Référent éthique clinique,Qualité,cadre forfait jours
+253,Technicien préparations stériles,Pharmacie,jour
+254,Pharmacien responsable stérilités/ATU,Pharmacie,cadre forfait jours
+255,"Médecin de santé publique (vaccination, dépistage)",Médical,jour
+256,Infirmier dermatologie (photothérapie),Soins infirmiers,jour
+257,Opérateur vidéoprotection,Sécurité,jour/nuit
+258,Agent d'accueil des familles,Administratif,jour; week-end
+259,Superviseur flux patients (bed manager senior),Organisation soins,cadre forfait jours
+260,Infirmier UHCD/USC,Soins infirmiers,jour/nuit; 12h
+261,Infirmier réanimation,Soins infirmiers,jour/nuit; 12h
+262,Infirmier bloc obstétrical,Bloc opératoire,jour/nuit; 12h
+263,Infirmier salle de réveil (SSPI),Bloc opératoire,jour; astreintes
+264,Secrétaire de pôle médical,Administratif,jour
+265,Cadre administratif de pôle,Administratif,cadre forfait jours
+266,Coordinateur brancardage,Logistique,cadre forfait jours
+267,Interne en pharmacie,Pharmacie,jour; gardes
+268,Interne en médecine,Médical,jour; gardes
+269,Interne en chirurgie,Médical,jour; gardes; bloc
+270,Assistant logistique de service,Logistique,jour; horaires variables
+271,Infirmier radiologie interventionnelle,Imagerie,jour; astreintes
+272,MER radiologie interventionnelle,Imagerie,jour; astreintes
+273,Greffier hospitalier (psychiatrie),Administratif/Juridique,jour
+274,Médiateur en santé pair,Psycho-social,horaires variables
+275,Gestionnaire des stupéfiants (pharmacie),Pharmacie,jour
+276,Qualiticien stérilisation,Stérilisation/Qualité,cadre forfait jours
+277,Responsable qualité imagerie,Imagerie/Qualité,cadre forfait jours
+278,Ingénieur entrepôt de données de santé,Informatique/SIH,cadre forfait jours
+279,Data steward (EDS),Informatique/SIH,cadre forfait jours
+280,Coordonnateur de vigilances,Vigilances,cadre forfait jours
+281,Acheteur pharmacie/médicaments,Achats/Pharmacie,cadre forfait jours
+282,Technicien médecine nucléaire,Imagerie,jour; astreintes
+283,Médecin régulateur SAMU,Médical/Urgences,jour/nuit; gardes
+284,Médecin nutritionniste,Médical,jour
+285,Infirmier hôpital de jour,Soins infirmiers,jour
+286,Secrétaire de consultation,Administratif/médical,jour
+287,Technicien marchés dispositifs médicaux,Achats/Pharmacie,jour
+288,Technicien radioprotection,Imagerie/Techniques,jour
+289,Chef de bloc opératoire,Bloc opératoire,cadre forfait jours
+290,Coordinateur hébergement accompagnants,Hôtellerie,cadre forfait jours
+291,Agent logistique stérilisation,Stérilisation,jour
+292,Technicien préparations cytotoxiques,Pharmacie,jour
+293,Pharmacien oncologie (chimiothérapie),Pharmacie,cadre forfait jours
+294,Data manager recherche translationnelle,Recherche,cadre forfait jours
+295,Statisticien (service de santé publique),Recherche/Santé publique,cadre forfait jours
+296,Cadre de santé psychiatrie,Encadrement,cadre forfait jours
+297,Médecin coordonnateur EHPAD,Médical,cadre forfait jours
+298,Animateur EHPAD,Psycho-social,jour; week-end
+299,Aide-soignant EHPAD,Soins infirmiers,jour/nuit

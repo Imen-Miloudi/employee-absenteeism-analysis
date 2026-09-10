@@ -1,0 +1,24 @@
+id,code,libellé,famille,type,autorisation préalable,assurance
+1,MAL,Maladie,Maladie,Maladie,non,CPAM
+2,LMAL,Longue maladie,Maladie,Longue maladie,non,CPAM
+3,AT,Accident de travail,Accidentologie,Accident de travail,non,CPAM
+4,ATR,Accident de trajet,Accidentologie,Accident de trajet,non,CPAM
+5,MPRO,Maladie professionnelle,Accidentologie,Maladie professionnelle,non,CPAM
+6,CEDU,Congé parental d'éducation,Parentalité,Congés d'éducation,oui,CAF
+7,CPAT,Congé de paternité,Parentalité,Congés de paternité,oui,CPAM
+8,HFEM,Heure femme enceinte,Parentalité,Heure femme enceinte,oui,Aucune
+9,MAT,Congé maternité,Parentalité,Maternité,oui,CPAM
+10,CPTH,Congé pathologique maternité,Parentalité,Congés pathologiques,oui,CPAM
+11,DECE,Décès d'un proche,Événements familiaux,Décès,oui,Aucune
+12,DEME,Déménagement,Événements familiaux,Déménagement,oui,Aucune
+13,ENFM,Enfant malade,Événements familiaux,Enfant malade,oui,Aucune
+14,EVEN,Autres événements familiaux,Événements familiaux,Autres événements,oui,Aucune
+15,MARI,Mariage/PACS,Événements familiaux,Mariage,oui,Aucune
+16,NAIS,Naissance ou adoption,Événements familiaux,Naissance et adoption,oui,Aucune
+17,SABB,Congé sabbatique,Absences non payées,Sabbatique,oui,Aucune
+18,DIVE,Absence diverse non rémunérée,Absences non payées,Divers,oui,Aucune
+19,GREVE,Grève,Absences non payées,Grève,non,Aucune
+20,FORM,Formation,Autres,Formation,oui,Aucune
+21,REPR,Représentation du personnel,Autres,Mandat syndical,non,Aucune
+22,JURY,Jury d'assises,Absences non payées,État,non,État
+23,SERV,Service national ou militaire,Absences non payées,État,non,État
